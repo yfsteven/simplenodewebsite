@@ -1,0 +1,18 @@
+{
+  "name": "simplenodewebsite",
+  "version": "1.0.0",
+  "description": "A simple Node website",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "author": "Yan Chao Feng",
+  "license": "ISC",
+  "dependencies": {
+    "init": "^0.1.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
+}
